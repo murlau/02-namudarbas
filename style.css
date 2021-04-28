@@ -1,0 +1,82 @@
+
+ body {
+    max-width: 1920px;
+}
+
+.container {
+    max-width: 80%;
+    text-align: center;
+}
+
+.clearfix {
+    overflow: auto;
+}
+
+#main-heading {
+    color:grey;
+}
+
+#u-paragraph {
+    color: red;
+}
+
+.row {
+    background-color: aquamarine;
+    width: 100%;
+    color: grey;
+}
+
+.col {
+    float:left;
+    width: 50%;
+}
+
+.pirma {
+    background-color: grey;
+}
+
+.antra {
+    background-color: rgb(0, 255, 21);
+}
+
+
+
+.col-100 {
+    width: 100%;
+}
+
+
+.col-70 {
+        width: 70%;
+    float: left;
+}
+.col-30 {
+    width: 30%; 
+    float: left;
+}
+
+.col-33 {
+    float: left;
+    width: 33.33%;
+}
+.simbol {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+h1{
+    font-size: 48px;
+    color: yellow;
+}
+p {
+    font-size: 12px;
+    color: darkgray;
+}
+img {
+    margin-top: 5%;
+    width: 300px;
+    height: 150px;
+    
+}
+
+
